@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureFileStorageLocation",
-				"fileName": "export_BE47470022305980_20190817_1239.csv",
+				"fileName": "ANI_llnd_gemeente.csv",
 				"folderPath": "firstlevel"
 			}
 		}
