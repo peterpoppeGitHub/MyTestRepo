@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureFileStorageLocation",
-				"fileName": "resultcopiedfile",
+				"fileName": "resultcopiedfile.pdf",
 				"folderPath": "level2"
 			}
 		}
