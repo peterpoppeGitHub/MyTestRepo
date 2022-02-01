@@ -1,0 +1,18 @@
+{
+	"name": "SourceDataset_uv0",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "azsourceconnection",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureFileStorageLocation",
+				"fileName": "export_BE47470022305980_20190817_1239.csv",
+				"folderPath": "firstlevel"
+			}
+		}
+	}
+}
