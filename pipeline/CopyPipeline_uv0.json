@@ -16,11 +16,11 @@
 				"userProperties": [
 					{
 						"name": "Source",
-						"value": "firstlevel/export_BE47470022305980_20190817_1239.csv"
+						"value": "firstlevel/ANI_llnd_gemeente.csv"
 					},
 					{
 						"name": "Destination",
-						"value": "level2/resultcopiedfile"
+						"value": "level2/ANI_llnd_gemeente_result.csv"
 					}
 				],
 				"typeProperties": {
